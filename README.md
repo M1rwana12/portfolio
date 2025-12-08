@@ -25,6 +25,7 @@ This is my **interactive developer portfolio** showcasing my skills, projects, a
 - 🌟 **Smooth Animations** - Particle background and micro-interactions
 - 📱 **Fully Responsive** - Works perfectly on all devices
 - 🚀 **Fast Performance** - Built with React + Vite
+- https://m1rwana12.github.io/portfolio/
 
 ---
 
